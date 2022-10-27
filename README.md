@@ -3,7 +3,7 @@
 ------------------------
 
 
-This is a simple implementation of the Physics-informed Neural Networks (PINNs) using ***PyTorch*** and ***Tensorflow***.
+This is a simple implementation of the Physics-informed Neural Networks (PINNs) using ***PyTorch***, forked from [https://github.com/jayroxis/PINNs](https://github.com/jayroxis/PINNs).
 
 -------------------------------------------
 
