@@ -35,7 +35,6 @@ This is a simple implementation of the Physics-informed Neural Networks (PINNs) 
 
 Major Dependencies:
 
- - ***Tensorflow (for Tensorflow Implementation)***: ```pip install --upgrade tensorflow```
  - ***PyTorch (for PyTorch Implementation)***: ```pip install --upgrade torch``
  - ***Jupyter Notebook/Lab***: ```pip install jupyterlab``` (JupyterLab) or ```pip install notebook```
 
@@ -44,4 +43,3 @@ Peripheral Dependencies:
  - ***numpy***: ```pip install numpy```
  - ***seaborn***: ```pip install seaborn```
  - ***matplotlib***: ```pip install matplotlib```
- - ***pyDOE (for Tensorflow Implementation)***: ```pip install pyDOE```
